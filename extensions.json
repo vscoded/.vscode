@@ -1,0 +1,110 @@
+{
+  // See http://go.microsoft.com/fwlink/?LinkId=827846
+  // for the documentation about the extensions.json format
+  "recommendations": [
+    // Gitlens for Git
+    "eamodio.gitlens",
+
+    // Githistory for Git
+    "donjayamanne.githistory",
+
+    // Golang for Golang
+    "golang.go",
+
+    // Emmylua for Lua
+    "tangzx.emmylua",
+
+    // Cpptools for C/C++
+    "ms-vscode.cpptools",
+
+    // Python for Python
+    "ms-python.python",
+
+    // Pylance for Python
+    "ms-python.vscode-pylance",
+
+    // rust-lang.rust for Rust
+    "rust-lang.rust",
+
+    // rust-analyzer for Rust
+    "matklad.rust-analyzer",
+
+    // Dart-code for Dart
+    "Dart-Code.dart-code",
+
+    // Dart-Code.flutter for Flutter
+    "Dart-Code.flutter",
+
+    // rashwell.tcl for TCL
+    "rashwell.tcl",
+
+    // alygin.vscode-tlaplus tla+
+    "alygin.vscode-tlaplus",
+
+    // jebbs.plantuml for UML chart
+    "jebbs.plantuml",
+
+    // Vscode-drawio for Drawio
+    "hediet.vscode-drawio",
+
+    // Ms-python for Python
+    "ms-python.python",
+
+    // julialang.language-julia for Julia
+    "julialang.language-julia",
+
+    // richterger.perl for Perl
+    "richterger.perl",
+
+    // liximomo.sftp for SFTP
+    "liximomo.sftp",
+
+    // remote-ssh-edit for SSH
+    "ms-vscode-remote.remote-ssh-edit",
+
+    // remote-ssh for SSH
+    "ms-vscode-remote.remote-ssh",
+
+    // Rest-client for REST-TESTING
+    "humao.rest-client",
+
+    // ckolkman.vscode-postgres for PostgreSQL
+    "ckolkman.vscode-postgres",
+
+    // octref.vetur for Vue
+    "octref.vetur",
+
+    // volarf or Vue https://github.com/johnsoncodehk/volar
+    "johnsoncodehk.volar",
+
+    // hollowtree.vue-snippets for Vue
+    "hollowtree.vue-snippets",
+
+    // Markdown-all-in-one for Markdown
+    "yzhang.markdown-all-in-one",
+
+    // Debug-visualizer for debug
+    "hediet.debug-visualizer",
+
+    // Vscode-docker for Docker
+    "ms-azuretools.vscode-docker",
+
+    // Gremlinsr for gremlins
+    "nhoizey.gremlins",
+
+    // Tomoki1207 for PDF viewing
+    "tomoki1207.pdf",
+
+    // Vscode-mindma for Mindmap
+    "Souche.vscode-mindmap",
+
+    // Vscode-todo-highlight for TODO highlight
+    "wayou.vscode-todo-highlight",
+
+    // Back and forth
+    "nick-rudenko.back-n-forth",
+
+    // vscode-proto3 for proto3 - https://github.com/zxh0/vscode-proto3
+    "zxh404.vscode-proto3"
+  ]
+}

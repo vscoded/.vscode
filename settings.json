@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "*.h": "c",
+        "*.c": "c",
+        "*.sh": "shellscript",
+        "*.lua": "lua",
+        "*.go": "go",
+        "*.jl": "julia",
+        "*.dart": "dart",
+        "*.rs": "rust"
+    },
+    "files.encoding": "utf8",
+    "files.exclude": {
+        "**/.git": true,
+        "**/book/book": true,
+        "**/.DS_Store": true,
+        "**/*.log": true,
+        "**/*.dot": true,
+        "**/target": true,
+        "**/.ipynb_*": true
+    }
+}
+
