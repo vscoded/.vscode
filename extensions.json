@@ -12,7 +12,7 @@
     "golang.go",
 
     // Emmylua for Lua
-    "tangzx.emmylua",
+    // "tangzx.emmylua",
 
     // Cpptools for C/C++
     "ms-vscode.cpptools",
@@ -105,6 +105,12 @@
     "nick-rudenko.back-n-forth",
 
     // vscode-proto3 for proto3 - https://github.com/zxh0/vscode-proto3
-    "zxh404.vscode-proto3"
+    "zxh404.vscode-proto3",
+
+    // vsls-contrib.codetour - https://github.com/microsoft/codetour
+    "vsls-contrib.codetour",
+
+    // yinfei.luahelper - https://github.com/Tencent/LuaHelper
+    "yinfei.luahelper"
   ]
 }
